@@ -26,7 +26,7 @@
        - Business Financials
   - ⚡ Working on creating a webpage about me
   - 📫 Reachable through &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LuisVargas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis--vargas/)
-- ✔️ Goals for 2023:
+- ✔️ Goals for 2025:
   - 👨‍💻 Get my first job in the software development industry
   - 🌱 Learn:
     - React JS
@@ -36,7 +36,7 @@
     - Rich Dad Poor Dad, Robert T. Kiyosaki
     - Think and Grow Rich, Napoleon Hill
     - Midas Touch, Donald J. Trump & Robert T. Kiyosaky
-  - 🚴‍♂️ Excersice more
+  - 🚴‍♂️ Exercise more
 
 ---
 
