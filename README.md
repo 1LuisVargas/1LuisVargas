@@ -20,7 +20,7 @@
 
 ### 🧔‍♂️ About Me:
 - I'm Currently:
-  - 👨‍💼 Working as a Team Lead for 5CA, managing a team of 10 agents in the BPO industry
+  - 👨‍💼 Working as a Gaming Support Team Lead for 5CA, managing an international team of 12 agents
   - 🌱 Learning
        - Javascript with NodeJs
        - Business Financials
