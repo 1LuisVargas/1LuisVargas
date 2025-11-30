@@ -59,15 +59,10 @@
 ### 🔥 My GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1LuisVargas&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1LuisVargas)](https://github.com/1LuisVargas/github-readme-stats)
-
 ---
 
 ### 📘 More About Me:
 If you want to know more about me, go ahead and see my webpage **-still a work in progress-** clicking on the image below    
-
-[![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=!LuisVargas)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **1LuisVargas/1LuisVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
