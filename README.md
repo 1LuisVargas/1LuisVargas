@@ -66,7 +66,7 @@
 ### 📘 More About Me:
 If you want to know more about me, go ahead and see my webpage **-still a work in progress-** clicking on the image below    
 
-[![Web Page](https://user-images.githubusercontent.com/45537571/232258284-e5d5fc09-630a-4ff2-b9cb-9055fef23b65.png)](https://luisvargas.netlify.app/)
+[![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=!LuisVargas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
