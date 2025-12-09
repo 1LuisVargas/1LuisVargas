@@ -14,7 +14,7 @@
 </div>
   <div align="center">
   <a href="mailto:luisvargas0311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luisvargas0311%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-luisvargas0311%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   </div>
 
