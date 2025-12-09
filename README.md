@@ -10,15 +10,11 @@
   <a href="https://www.linkedin.com/in/1luisvargas/"> 
     <img src="https://img.shields.io/badge/LinkedIn-1luisvargas-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<div align="center">
   <a href="mailto:luisvargas0311@gmail.com">
     <img src="https://img.shields.io/badge/Email-luisvargas0311%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</div>
-<div align="center">
   <a href="https://www.canva.com/design/DAG6qIVsg6w/0ehMgOV6Qr3R0HJsFJtFgw/view?utm_content=DAG6qIVsg6w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha202b1e790">
-    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
+    <img src="https://img.shields.io/badge/CV-View%20Online-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
 <div align="center">
