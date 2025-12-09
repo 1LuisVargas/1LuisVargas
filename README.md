@@ -5,19 +5,22 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF coding from home" width="100"/>
 </div>
-
 <h3 align="center">Full-Stack Developer</h3>
 <div align="center">
-  <a align="center" href="https://www.linkedin.com/in/1luisvargas/"> 
+  <a href="https://www.linkedin.com/in/1luisvargas/"> 
     <img src="https://img.shields.io/badge/LinkedIn-1luisvargas-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <div align="center">
+<div align="center">
   <a href="mailto:luisvargas0311@gmail.com">
     <img src="https://img.shields.io/badge/Email-luisvargas0311%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  </div>
-
+</div>
+<div align="center">
+  <a href="https://www.canva.com/design/DAG6qIVsg6w/0ehMgOV6Qr3R0HJsFJtFgw/view?utm_content=DAG6qIVsg6w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha202b1e790">
+    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
+  </a>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=1LuisVargas&style=flat-square&color=blue" alt="GitHub Profile Visits Icon"/>
 </div>
@@ -51,8 +54,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git logo" width="40" height="40"/> &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub logo" width="40" height="40"/> &nbsp; 
 </div>
-
-
 
 <!--
 **1LuisVargas/1LuisVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
