@@ -2,16 +2,21 @@
   Hello world, I'm Luis
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GIF waving hand" width="30px"/>
 </h1>
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF coding from home" width="100"/>
 </div>
 
 <h3 align="center">Full-Stack Developer</h3>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/1luisvargas/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <a align="center" href="https://www.linkedin.com/in/1luisvargas/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-1luisvargas-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+  <div align="center">
+  <a href="mailto:luisvargas0311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-luisvargas0311%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=1LuisVargas&style=flat-square&color=blue" alt="GitHub Profile Visits Icon"/>
@@ -19,7 +24,7 @@
 
 ---
 
-## 🧔‍♂️ About Me:
+## 👨‍💻 About Me:
 - 🎯 Transitioning from **CX Team Lead (5+ yrs)** → **Full-Stack Web Developer**
 - 💻 Currently completing the **Soy Henry Full-Stack Development Bootcamp**
 - 🌎 Open to remote roles worldwide (Frontend / Full-Stack)
@@ -45,17 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub logo" width="40" height="40"/> &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS logo" width="40" height="40"/> &nbsp; 
 </div>
-
-
----
-
-## 📫 Connect with Me:
-- <a href="https://www.linkedin.com/in/1luisvargas/">
-    <img src="https://img.shields.io/badge/LinkedIn-1luisvargas-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-- <a href="mailto:luisvargas0311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luisvargas0311%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
 
 
 
