@@ -68,7 +68,7 @@
   - <a href="https://github.com/1LuisVargas/TicketLive-Front">Front-End</a>
   - <a href="https://github.com/1LuisVargas/TicketLive-Back">Back-End</a>
 ### Ecommerce Store: General ecommerce store.
-- **My role:** This was a solo development, so the entire website was built by me; both front-end and back-end.
+- **My role:** The entire front-end was developed by me, showcasing my abilities to create a full front-end application from scratch.
 - <a href="https://github.com/1LuisVargas/ecommerce-platform-nextjs">**Repository**</a>
 
 ## 📚 Education:
