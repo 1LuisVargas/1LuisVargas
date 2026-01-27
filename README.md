@@ -32,6 +32,13 @@
 ---
 
 ## 🛠️ Tech Stack: 
+- **Front-end:** React, Next.js, Bootstrap, Tailwind
+- **Back-end:** Node.js, postgreSQL, MongoDB, Mongoose
+- **Authentication:** JWT
+- **Deployment:** Vercel
+- **Languages:** HTML, CSS, Javascript, Typescript
+- **Additional Tools:** Github, Trello
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML logo" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS logo" width="40" height="40"/> &nbsp;
@@ -52,6 +59,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git logo" width="40" height="40"/> &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub logo" width="40" height="40"/> &nbsp; 
 </div>
+
+## 🥇 Featured Projects:
+### TicketLive: Online ticket sales platform.
+- **My role:**
+  - Standardized the CSS styling, implementation of maptiler for GPS location, search logic implementation, event details creation and styling.
+- **Repositories:**
+  - <a href="https://github.com/1LuisVargas/TicketLive-Front">Front-End</a>
+  - <a href="https://github.com/1LuisVargas/TicketLive-Back">Back-End</a>
+### Ecommerce Store: General ecommerce store.
+- **My role:** This was a solo development, so the entire website was built by me; both front-end and back-end.
+- <a href="https://github.com/1LuisVargas/ecommerce-platform-nextjs">**Repository**</a>
+
+## 📚 Education:
+- **SoyHenry - Full-Stack Web Developer Bootcamp (2026)**
+- **Universidad Nacional de Colombia - Computer Systems Engineering (2019 - 2021)**
+- **Universidad Simón Bolívar - Electronic Engineering (2017 - 2018)**
 
 <!--
 **1LuisVargas/1LuisVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
