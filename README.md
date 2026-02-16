@@ -13,7 +13,7 @@
   <a href="mailto:luisvargas0311@gmail.com">
     <img src="https://img.shields.io/badge/Email-luisvargas0311%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.canva.com/design/DAG6qIVsg6w/0ehMgOV6Qr3R0HJsFJtFgw/view?utm_content=DAG6qIVsg6w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha202b1e790">
+  <a href="https://1drv.ms/w/c/b06972d34e009209/IQA1iK2jlbtjQrcnSNSLgS0wAaZ-5vrhgWlJREwwE1PWEb8">
     <img src="https://img.shields.io/badge/CV-View%20Online-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
