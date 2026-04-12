@@ -58,6 +58,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind logo" width="40" height="40"/> &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git logo" width="40" height="40"/> &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub logo" width="40" height="40"/> &nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase logo" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger logo" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJs" alt="NestJs logo" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Groq_logo.svg/250px-Groq_logo.svg.png?_=20240313080133" title="Groq chatbot" alt="Groq logo" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mercado_Pago.svg/960px-Mercado_Pago.svg.png" title="MercadoPago" alt="MercadoPago logo" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MapTiler_logo.svg/250px-MapTiler_logo.svg.png?_=20240418154034" title="Maptiler" alt="Maptiler logo" width="40" height="40"/> &nbsp;
 </div>
 
 ## 🥇 Featured Projects:
