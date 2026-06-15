@@ -89,5 +89,5 @@ Backend services for real-time queue state management using **TypeScript**, **Re
 ## Education
 
 - **SoyHenry** — Full-Stack Web Development Bootcamp (2025–2026)
-- **Universidad Nacional de Colombia** — Systems Engineering (2019–2021)
+- **Universidad Nacional de Colombia** — Systems Engineering (2019–2020)
 - **Universidad Simón Bolívar** — Electronic Engineering (2017–2018)
